@@ -1,0 +1,29 @@
+body {
+  background-color: teal;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+form {
+  display: block;
+}
+
+span {
+  display: block;
+}
+.nav-bar {
+	display: flex;
+	justify-content: space-between;
+  vertical-align: baseline;
+	padding: 10px 0;
+	border-bottom: 1px solid grey;
+  font-family: fantasy;
+}
+
+.logging {
+  font-weight: bold;
+  padding: 15px;
+}
